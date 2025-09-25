@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "mods": [
+    "common-prototypes-graphics = 0.0.2",
+    "common-prototypes = 0.0.4",
+    "metal-and-stars-graphics = 0.0.4",
+    "metal-and-stars-graphics-2 = 0.0.3",
+    "ArmouredBiters = 1.2.1",
+    "PlanetsLib = 1.13.1",
+    "metal-and-stars = 0.1.17"
+  ],
+  "mod-overrides": {
+    "metal-and-stars-graphics": {"redirect": "metal-and-stars"},
+    "metal-and-stars-graphics-2": {"redirect": "metal-and-stars"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
