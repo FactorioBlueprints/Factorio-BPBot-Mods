@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "mods": ["baketorio = 2.0.15"],
+  "mods": ["baketorio = 2.0.16"],
   "mod-overrides": {},
   "entity-overrides": {},
   "tile-overrides": {}

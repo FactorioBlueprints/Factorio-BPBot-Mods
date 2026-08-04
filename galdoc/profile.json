@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "mods": [
-    "icon-badges = 1.2.2",
-    "galdocs-manufacturing = 1.0.5"
+    "icon-badges = 1.2.6",
+    "galdocs-manufacturing = 1.0.6"
   ],
   "mod-overrides": {},
   "entity-overrides": {},

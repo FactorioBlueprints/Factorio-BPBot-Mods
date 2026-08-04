@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "mods": ["ColonyBuilder = 0.2.5"],
+  "mods": ["ColonyBuilder = 0.2.6"],
   "mod-overrides": {},
   "entity-overrides": {},
   "tile-overrides": {}

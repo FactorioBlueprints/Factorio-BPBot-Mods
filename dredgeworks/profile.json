@@ -1,10 +1,10 @@
 {
   "enabled": true,
   "mods": [
-    "dredgeworks-graphics = 0.1.1",
-    "dredgeworks = 0.8.10",
-    "stirling-generator = 0.1.0",
-    "dw-frozen-reaches = 0.3.6"
+    "dredgeworks-graphics = 1.0.0",
+    "dredgeworks = 1.0.0",
+    "stirling-generator = 0.2.0",
+    "dw-frozen-reaches = 1.0.0"
   ],
   "mod-overrides": {"dredgeworks-graphics": {"redirect": "dredgeworks"}},
   "entity-overrides": {},

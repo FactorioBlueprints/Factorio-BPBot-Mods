@@ -1,6 +1,15 @@
 {
   "enabled": true,
-  "mods": ["wayward-seas = 0.8.5"],
+  "mods": [
+    "dredgeworks-graphics = 1.0.0",
+    "dredgeworks = 1.0.0",
+    "cargo-ships-graphics = 2.1.0",
+    "Robot256Lib = 2.1.4",
+    "cargo-ships-floating-electric-pole = 2.1.0",
+    "cargo-ships-oil-rig = 2.1.2",
+    "cargo-ships = 2.1.6",
+    "wayward-seas = 1.0.0"
+  ],
   "mod-overrides": {},
   "entity-overrides": {},
   "tile-overrides": {}

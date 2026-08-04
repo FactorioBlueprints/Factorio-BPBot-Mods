@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "mods": [
-    "discovery_tree = 1.0.10",
-    "Krastorio2Assets = 2.0.3",
-    "fun_mode = 1.0.5"
+    "discovery_tree = 1.0.11",
+    "Krastorio2Assets = 2.1.0",
+    "fun_mode = 1.0.6"
   ],
   "mod-overrides": {"base": {"redirect": "fun_mode"}},
   "entity-overrides": {},

@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "mods": [
-    "PlanetsLib = 1.13.1",
-    "Age-of-Production = 1.7.4",
-    "Age-of-Production-Graphics = 1.0.7"
+    "PlanetsLib = 1.23.4",
+    "Age-of-Production-Graphics = 2.2.0",
+    "Age-of-Production = 2.2.3"
   ],
   "mod-overrides": {"Age-of-Production-Graphics": {"redirect": "Age-of-Production"}},
   "entity-overrides": {},

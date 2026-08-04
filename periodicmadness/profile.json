@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "mods": ["periodic-madness = 0.6.523"],
+  "mods": ["periodic-madness = 0.8.014"],
   "mod-overrides": {"base": {"redirect": "periodic-madness"}},
   "entity-overrides": {},
   "tile-overrides": {}

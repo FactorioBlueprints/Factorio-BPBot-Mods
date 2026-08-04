@@ -1,7 +1,15 @@
 {
   "enabled": true,
-  "mods": ["warptorio-space-age = 0.2.9"],
+  "mods": [
+    "warptorio-space-age = 0.4.2"
+  ],
   "mod-overrides": {},
-  "entity-overrides": {},
+  "entity-overrides": {
+    "warp-constant-combinator": {
+      "mods": [
+        "warptorio-space-age"
+      ]
+    }
+  },
   "tile-overrides": {}
 }

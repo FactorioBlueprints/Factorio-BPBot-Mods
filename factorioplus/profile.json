@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "mods": ["factorioplus = 2.4.2"],
+  "mods": ["factorioplus = 2.9.3"],
   "mod-overrides": {"base": {"redirect": "factorioplus"}},
   "entity-overrides": {},
   "tile-overrides": {}

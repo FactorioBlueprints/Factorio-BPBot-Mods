@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "mods": [
-    "kry_stdlib = 2.0.7",
-    "zoo-animal = 1.0.1",
-    "fruit = 1.52.0",
+    "kry_stdlib = 2.2.13",
+    "zoo-animal = 2.0.0",
+    "fruit = 2.0.0",
     "space-age"
   ],
   "mod-overrides": {},

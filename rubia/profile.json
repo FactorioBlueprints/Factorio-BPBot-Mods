@@ -1,11 +1,11 @@
 {
   "enabled": true,
   "mods": [
-    "PlanetsLib = 1.13.1",
-    "rubia-assets = 0.69.23",
-    "machine-upgrades = 0.69.14",
-    "RocketCargoInsertion = 1.1.0",
-    "rubia = 0.69.116"
+    "PlanetsLib = 1.23.4",
+    "rubia-assets = 0.69.27",
+    "machine-upgrades = 0.69.22",
+    "RocketCargoInsertion = 1.2.0",
+    "rubia = 0.69.157"
   ],
   "mod-overrides": {
     "base": {"redirect": "rubia"},
