@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "mods": [
+    "creative-mod = 2.2.1"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {
+    "creative-mod_*": {
+      "mods": [
+        "creative-mod"
+      ]
+    }
+  },
+  "tile-overrides": {}
+}
