@@ -26,34 +26,128 @@
     "PyBlock = 3.3.0"
   ],
   "mod-overrides": {
-    "pyalienlifegraphics": {"redirect": "pyalienlife"},
-    "pyalienlifegraphics2": {"redirect": "pyalienlife"},
-    "pyalienlifegraphics3": {"redirect": "pyalienlife"},
-    "pyalternativeenergygraphics": {"redirect": "pyalternativeenergy"},
-    "pycoalprocessinggraphics": {"redirect": "pycoalprocessing"},
-    "pyfusionenergygraphics": {"redirect": "pyfusionenergy"},
-    "pyhightechgraphics": {"redirect": "pyhightech"},
-    "pyindustrygraphics": {"redirect": "pyindustry"},
-    "pypetroleumhandlinggraphics": {"redirect": "pypetroleumhandling"},
-    "pyraworesgraphics": {"redirect": "pyrawores"}
+    "pyalienlifegraphics": {
+      "redirect": "pyalienlife"
+    },
+    "pyalienlifegraphics2": {
+      "redirect": "pyalienlife"
+    },
+    "pyalienlifegraphics3": {
+      "redirect": "pyalienlife"
+    },
+    "pyalternativeenergygraphics": {
+      "redirect": "pyalternativeenergy"
+    },
+    "pycoalprocessinggraphics": {
+      "redirect": "pycoalprocessing"
+    },
+    "pyfusionenergygraphics": {
+      "redirect": "pyfusionenergy"
+    },
+    "pyhightechgraphics": {
+      "redirect": "pyhightech"
+    },
+    "pyindustrygraphics": {
+      "redirect": "pyindustry"
+    },
+    "pypetroleumhandlinggraphics": {
+      "redirect": "pypetroleumhandling"
+    },
+    "pyraworesgraphics": {
+      "redirect": "pyrawores"
+    }
   },
   "entity-overrides": {
-    "hawt-turbine-mk*-blank": {"rendering": "py.TurbineRendering"},
-    "multiblade-turbine-mk*-blank": {"rendering": "py.TurbineRendering"},
-    "shunt-inserter": {"mods": ["PyBlock"]}
+    "hawt-turbine-mk*-blank": {
+      "rendering": "py.TurbineRendering"
+    },
+    "multiblade-turbine-mk*-blank": {
+      "rendering": "py.TurbineRendering"
+    },
+    "shunt-inserter": {
+      "mods": [
+        "PyBlock"
+      ]
+    },
+    "hawt-turbine-mk01-blank": {
+      "rendering": "SolarPanelRendering"
+    },
+    "hawt-turbine-mk02-blank": {
+      "rendering": "SolarPanelRendering"
+    },
+    "hawt-turbine-mk03-blank": {
+      "rendering": "SolarPanelRendering"
+    },
+    "hawt-turbine-mk04-blank": {
+      "rendering": "SolarPanelRendering"
+    },
+    "multiblade-turbine-mk01-blank": {
+      "rendering": "SolarPanelRendering"
+    },
+    "multiblade-turbine-mk03-blank": {
+      "rendering": "SolarPanelRendering"
+    }
   },
   "tile-overrides": {
-    "acid-refined-concrete": {"mods": ["pyindustry"]},
-    "black-refined-concrete": {"mods": ["pyindustry"]},
-    "blue-refined-concrete": {"mods": ["pyindustry"]},
-    "brown-refined-concrete": {"mods": ["pyindustry"]},
-    "cyan-refined-concrete": {"mods": ["pyindustry"]},
-    "green-refined-concrete": {"mods": ["pyindustry"]},
-    "lab-white": {"mods": ["pyindustry"]},
-    "orange-refined-concrete": {"mods": ["pyindustry"]},
-    "pink-refined-concrete": {"mods": ["pyindustry"]},
-    "purple-refined-concrete": {"mods": ["pyindustry"]},
-    "red-refined-concrete": {"mods": ["pyindustry"]},
-    "yellow-refined-concrete": {"mods": ["pyindustry"]}
+    "acid-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "black-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "blue-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "brown-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "cyan-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "green-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "lab-white": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "orange-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "pink-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "purple-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "red-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    },
+    "yellow-refined-concrete": {
+      "mods": [
+        "pyindustry"
+      ]
+    }
   }
 }
