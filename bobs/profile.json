@@ -20,8 +20,7 @@
     "bobvehicleequipment = 3.0.0",
     "bobwarfare = 3.0.1",
     "flib = 0.17.2",
-    "WideChests = 6.3.0",
-    "WideChestsBobs = 2.0.0"
+    "WideChests = 6.3.0"
   ],
   "mod-overrides": {},
   "entity-overrides": {
