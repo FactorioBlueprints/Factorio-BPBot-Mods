@@ -12,5 +12,11 @@
   ],
   "mod-overrides": {},
   "entity-overrides": {},
-  "tile-overrides": {}
+  "tile-overrides": {
+    "excavated-trench": {
+      "mods": [
+        "wayward-seas"
+      ]
+    }
+  }
 }
