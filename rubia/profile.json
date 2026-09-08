@@ -5,7 +5,7 @@
     "rubia-assets = 0.69.27",
     "machine-upgrades = 0.69.22",
     "RocketCargoInsertion = 1.2.0",
-    "rubia = 0.69.157"
+    "rubia = 0.69.159"
   ],
   "mod-overrides": {
     "base": {"redirect": "rubia"},
