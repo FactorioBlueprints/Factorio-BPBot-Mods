@@ -11,7 +11,18 @@
     "wayward-seas = 1.0.0"
   ],
   "mod-overrides": {},
-  "entity-overrides": {},
+  "entity-overrides": {
+    "ship-loading-pump": {
+      "mods": [
+        "cargo-ships"
+      ]
+    },
+    "ship-unloading-pump": {
+      "mods": [
+        "cargo-ships"
+      ]
+    }
+  },
   "tile-overrides": {
     "excavated-trench": {
       "mods": [
