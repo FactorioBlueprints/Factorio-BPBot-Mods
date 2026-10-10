@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "mods": [
-    "Tintrifuge = 1.0.0",
-    "Voidcraft = 2.9.3",
-    "VoidBlock = 1.2.1"
+    "Tintrifuge = 1.1.0",
+    "Voidcraft = 2.11.0",
+    "VoidBlock = 1.2.3"
   ],
   "mod-overrides": {},
   "entity-overrides": {},

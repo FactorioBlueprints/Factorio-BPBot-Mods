@@ -5,7 +5,7 @@
     "Krastorio2MenuSimulations = 2.1.0",
     "flib = 0.17.2",
     "ChangeInserterDropLane = 1.3.0",
-    "Krastorio2 = 2.1.2"
+    "Krastorio2 = 2.1.3"
   ],
   "mod-overrides": {"Krastorio2Assets": {"redirect": "Krastorio2"}},
   "entity-overrides": {

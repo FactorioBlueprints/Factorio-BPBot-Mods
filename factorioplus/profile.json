@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "mods": ["factorioplus = 2.9.3"],
+  "mods": ["factorioplus-assets-turrets = 1.0.0", "birdengineer = 1.0.2", "koboldengineer = 1.0.2", "factorioplus = 2.11.0"],
   "mod-overrides": {"base": {"redirect": "factorioplus"}},
   "entity-overrides": {},
   "tile-overrides": {}
